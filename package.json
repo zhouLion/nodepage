@@ -1,6 +1,6 @@
 {
   "name": "nodepage",
-  "version": "1.1.5",
+  "version": "1.0.0-beta",
   "description": "本工具脚手架通过`Nodejs` + `Git`工作流，原型维护人员将原型文件上传到git远程仓库，本工具启动nodejs服务，定时更新仓库文件，并将其发布为静态服务，供开发人员在线浏览、下载项目的文档",
   "private": false,
   "workspaces": [

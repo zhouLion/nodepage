@@ -1,0 +1,12 @@
+node_modules
+lib
+
+/public
+app/dist
+*.code-workspace
+nodepage.json
+
+source
+.npmrc
+
+docs/.vuepress/dist

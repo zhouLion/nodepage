@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ic-download@1x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic-download" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M2,14 L2,10 L3,10 L3,13 L13,13 L13,10 L14,10 L14,14 L2,14 Z" id="形状结合" fill="#0078FF"></path>
+        <rect id="矩形备份-2" fill="#0078FF" x="7.22229004" y="2.03759766" width="1" height="8"></rect>
+        <polygon id="路径" fill="#0078FF" fill-rule="nonzero" transform="translate(7.750000, 7.830659) rotate(-45.000000) translate(-7.750000, -7.830659) " points="6.5 5.58065948 6.499 9.08 10 9.08065948 10 10.0806595 5.5 10.0806595 5.5 5.58065948"></polygon>
+    </g>
+</svg>
